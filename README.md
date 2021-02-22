@@ -1,7 +1,9 @@
 # Paraffin-Token-Grabber
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
 
-اولین توکن گرزبر ایرانی
+![logo](https://cdn.discordapp.com/attachments/776425421968244768/813113713464049714/bandicam_2021-02-21_10-03-16-922.jpg)
+
+اولین توکن گربر ایرانی
 <br><br>
 
 ## 🔧 مورد نیاز ها
